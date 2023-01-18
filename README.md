@@ -1,6 +1,6 @@
 # Taito-PC030CM
 
-This is a thru hole repro of the Taito PC030CM custom IC used on boards like Arkanoid, Bubble Bobble, Legend of Kage...
+This is a repro of the Taito PC030CM custom . A red IC used on boards like Arkanoid, Bubble Bobble, Legend of Kage...
 It handles coin input and counters and the boards won't boot without it
 VIDEO ---> https://www.youtube.com/watch?v=ZvzLnMCHy0M
 
